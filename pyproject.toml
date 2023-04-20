@@ -1,0 +1,18 @@
+[project]
+name = "genshinwish"
+version = "1.0.0"
+authors = [
+  { name="Lawrence Guo", email="775569157@qq.com" },
+]
+description = "A python-based Genshin Impact gacha simulator"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
