@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/__init__.py
+src/candidates.py
+src/genshinwish.py
+src/setup.py
+src/genshinwish.egg-info/PKG-INFO
+src/genshinwish.egg-info/SOURCES.txt
+src/genshinwish.egg-info/dependency_links.txt
+src/genshinwish.egg-info/top_level.txt
